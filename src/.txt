@@ -1,0 +1,11 @@
+Orientado a Objeto
+- Classe 
+- Objeto 
+- Herança
+- Encapsulamento
+- Polimorfismo
+
+Encapsulamento : 
+  - Público: propriedades e métodos ( são acessiveis foram da classe )
+  - Private: propriedades e métodos ( são acessiveis somente dentro da classe )
+  - Protected: propriedades e métodos ( são acessíveis somente dentro de classes que herdam da classes protected )
